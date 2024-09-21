@@ -48,3 +48,12 @@ p.small {
 .title {
   margin: 50px 0;
 }
+
+.list-wrapper {
+  text-align: center;
+}
+
+.list-ul {
+  display: inline-block;
+  text-align: left;
+}
