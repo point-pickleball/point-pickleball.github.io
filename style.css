@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  flex-direction: column;
+  width: 100%;
+  display: flex;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+h3, h4, h5, h6 {
+  font-size: 36px;
+}
+
+p {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+p.small {
+  font-size: 18px;
+}
+
+.wrapper {
+  min-height: 100vh;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  margin: 50px 0;
+}
