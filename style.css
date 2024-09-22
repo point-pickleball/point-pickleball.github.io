@@ -47,7 +47,7 @@ p.small {
 }
 
 .title {
-  margin: 50px 0;
+  margin: 0.5em 0;
 }
 
 .list-wrapper {
@@ -57,5 +57,5 @@ p.small {
 .list-ul {
   display: inline-block;
   text-align: left;
-  margin: 0 20px;
+  margin: 0 2em;
 }
